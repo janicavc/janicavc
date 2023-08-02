@@ -1,7 +1,6 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Janica Crisostomo</h1>
 <h3 align="center">A passionate Full-stack developer from Los Angeles, CA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janicavc&label=Profile%20views&color=0e75b6&style=flat" alt="janicavc" /> </p>
 
 - 🔭 I’m currently working on [Woof and Wander](https://github.com/janicavc/WoofAndWander)
 
