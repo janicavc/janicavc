@@ -1,6 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Janica Crisostomo</h1>
 <h3 align="center">A passionate Full-stack developer from Los Angeles, CA</h3>
 
+- 🌱 Currently exploring and learning **C#** and **C++**
 
 - 🔭 I’m currently working on [Woof and Wander](https://github.com/janicavc/WoofAndWander)
 
