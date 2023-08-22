@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring and learning **C#** and **C++**
 
-- 🔭 I’m currently working on [Woof and Wander](https://github.com/janicavc/WoofAndWander)
+- 🔭 I’m currently working on [Workout Wiz](https://github.com/janicavc/WorkoutWiz)
 
 - 📫 How to reach me **crisostomo_janica@yahoo.com**
 
