@@ -3,7 +3,7 @@
 
 - 🌱 Currently exploring and learning **C#** and **C++**
 
-- 🔭 I’m currently working on [Workout Wiz](https://github.com/janicavc/WorkoutWiz)
+- 🔭 I’m currently working on [Workout Wiz](https://github.com/janicavc/Workout-Wiz)
 
 - 📫 How to reach me **crisostomo_janica@yahoo.com**
 
